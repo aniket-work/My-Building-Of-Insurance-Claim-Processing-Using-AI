@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![design](design_docs/design.png)
 
 #  OCR Insurance Claim Processing Portal
 
