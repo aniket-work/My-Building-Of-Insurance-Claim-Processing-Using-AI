@@ -1,0 +1,15 @@
+[project]
+name = "smoldocling"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docling-core>=2.23.2",
+    "numpy>=2.2.4",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.43.2",
+    "streamlit-chat>=0.1.1",
+    "torch>=2.6.0",
+    "transformers>=4.49.0",
+]

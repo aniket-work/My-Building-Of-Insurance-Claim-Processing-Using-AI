@@ -1,0 +1,18 @@
+# settings.yaml
+app:
+  title: Insurance Claim AI Processing Portal
+  subtitle: Automated Extraction & Review of Insurance Claim Forms
+  page_title: SmolDocling OCR App
+  layout: wide
+  sidebar: false
+
+ui:
+  table_width: 60%
+  header_color: "#0d47a1"
+  subheader_color: "#1976d2"
+  table_header_bg: "#e3eafc"
+  table_header_color: "#0d47a1"
+  table_row_bg: "#fff"
+  table_border: "#d1d9e6"
+  table_shadow: "0 4px 24px rgba(13,71,161,0.08)"
+  table_radius: 12px

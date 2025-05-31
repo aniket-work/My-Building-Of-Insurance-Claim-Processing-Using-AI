@@ -1,0 +1,7 @@
+# config.json
+{
+  "model_name": "ds4sd/SmolDocling-256M-preview",
+  "max_new_tokens": 1024,
+  "default_prompt": "Convert this page to docling.",
+  "output_table_classes": "claim-table"
+}
